@@ -8,15 +8,15 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "GitHub": "https://github.com/andres-nav",
+      "LinkedIn": "https://linkedin.com/in/andresnav",
     },
   }),
 }
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
+ beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -24,15 +24,28 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.Links()),
+    Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        fontSize: 0.4,
+        repelForce: 1,
+        centerForce: 0.3,
+        linkDistance: 100,
+      },
+      globalGraph: {
+        fontSize: 0.4,
+        repelForce: 1,
+        centerForce: 0.3,
+        linkDistance: 100,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
+    Component.MobileOnly(Component.Links()),
   ],
 }
 
@@ -43,8 +56,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Links()),
+    Component.DesktopOnly(Component.RecentNotes()),
   ],
   right: [],
 }
