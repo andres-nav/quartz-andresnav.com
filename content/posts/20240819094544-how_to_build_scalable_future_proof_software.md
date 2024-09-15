@@ -1,6 +1,6 @@
 +++
 title = "How to build scalable future-proof software"
-author = ["Andrés Navarro"]
+author = ["Andrés Navarro Pedregal"]
 date = 2024-02-17T00:00:00+01:00
 tags = ["software"]
 draft = false

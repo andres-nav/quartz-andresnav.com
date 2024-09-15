@@ -1,6 +1,6 @@
 +++
 title = "Function as a Service (FaaS)"
-author = ["Andrés Navarro"]
+author = ["Andrés Navarro Pedregal"]
 date = 2024-08-22T00:00:00+02:00
 tags = ["cloud"]
 draft = false

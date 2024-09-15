@@ -1,6 +1,6 @@
 +++
 title = "What did I learn from freelancing at 16"
-author = ["Andrés Navarro"]
+author = ["Andrés Navarro Pedregal"]
 date = 2024-07-05T00:00:00+02:00
 tags = []
 draft = false

@@ -1,6 +1,6 @@
 +++
 title = "From taking apart microwaves to fixing a thousand phones"
-author = ["Andrés Navarro"]
+author = ["Andrés Navarro Pedregal"]
 date = 2024-03-19T00:00:00+01:00
 tags = ["electronics"]
 draft = false

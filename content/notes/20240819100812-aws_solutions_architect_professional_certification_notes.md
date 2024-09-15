@@ -1,6 +1,6 @@
 +++
 title = "AWS Solutions Architect Professional Certification Notes"
-author = ["Andrés Navarro"]
+author = ["Andrés Navarro Pedregal"]
 date = 2024-02-27T00:00:00+01:00
 tags = ["cloud"]
 draft = false

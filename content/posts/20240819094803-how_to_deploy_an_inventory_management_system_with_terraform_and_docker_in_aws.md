@@ -1,6 +1,6 @@
 +++
 title = "How to deploy an inventory management system with Terraform and Docker in AWS"
-author = ["Andrés Navarro"]
+author = ["Andrés Navarro Pedregal"]
 date = 2024-05-20T00:00:00+02:00
 tags = ["cloud"]
 draft = false

@@ -1,6 +1,6 @@
 +++
 title = "Ephemeral Elasticity"
-author = ["Andrés Navarro"]
+author = ["Andrés Navarro Pedregal"]
 date = 2024-08-22T00:00:00+02:00
 tags = ["cloud"]
 draft = false
@@ -21,4 +21,4 @@ Currently, [FaaS]({{< relref "20240821105038-function_as_a_service_faas.md" >}})
 ### [Network of hosts]({{< relref "20240822100343-network_of_hosts.md" >}}) {#network-of-hosts--20240822100343-network-of-hosts-dot-md}
 
 
-###  {#d41d8c}
+### [Event-triggered model]({{< relref "20240821105038-function_as_a_service_faas.md" >}}) {#event-triggered-model--20240821105038-function-as-a-service-faas-dot-md}

@@ -1,8 +1,8 @@
 +++
 title = "I got accepted at CERN, the largest particle accelerator in the world, and this is how"
-author = ["Andrés Navarro"]
+author = ["Andrés Navarro Pedregal"]
 date = 2024-06-11T00:00:00+02:00
-tags = []
+tags = ["cern"]
 draft = false
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "MetaQ: Ephemeral Per-query Engines for Serverless Analytics"
-author = ["Andrés Navarro"]
+author = ["Andrés Navarro Pedregal"]
 date = 2024-08-24T00:00:00+02:00
 tags = ["paper", "cloud"]
 draft = false
