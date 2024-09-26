@@ -22,4 +22,4 @@ The main problem with this approaches is the implicit give up on the existing di
 In this paper, the authors explore and propose an alternative solutions for data analytics on serverless.
 **Run off-the-shelf distributed data processing platforms (e.g., Spark or Drill) on top of existing commercial serverless platforms ([AWS Lambda]({{< relref "20240821110408-aws_lambda.md" >}})).**
 
-To achieve this, they used [Boxer]({{< relref "20240815094638-boxer_faast_ephemeral_elasticity_for_off_the_shelf_cloud_applications.md" >}}) to handle unmodified data processing engine processes.
+To achieve this, they used [Boxer]({{< relref "boxer_faast_emphemeral_elasticity.md" >}}) to handle unmodified data processing engine processes.

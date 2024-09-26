@@ -2,7 +2,7 @@
 title = "Imaginary Machines: A Serverless Model for Cloud Applications"
 author = ["Andrés Navarro Pedregal"]
 date = 2024-08-22T00:00:00+02:00
-tags = ["paper", "cloud"]
+tags = ["literature", "cloud"]
 draft = false
 +++
 
@@ -14,7 +14,7 @@ Proposes with the goal of applying the serverless paradigm to cloud applications
 
 The goal is to **increase resource utilization while reducing management costs**.
 
-It uses [Boxer]({{< relref "20240815094638-boxer_faast_ephemeral_elasticity_for_off_the_shelf_cloud_applications.md" >}}).
+It uses [Boxer]({{< relref "boxer_faast_emphemeral_elasticity.md" >}}).
 
 
 ## Motivations {#motivations}

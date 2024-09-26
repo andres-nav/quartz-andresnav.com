@@ -1,8 +1,8 @@
 +++
-title = "How I passed the AWS Solutions Architect Professional with no experience"
+title = "How I passed the AWS Solutions Architect Professional"
 author = ["Andrés Navarro Pedregal"]
 date = 2024-02-28T00:00:00+01:00
-tags = ["cloud"]
+tags = ["cloud", "aws"]
 draft = false
 +++
 

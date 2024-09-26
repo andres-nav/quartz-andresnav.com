@@ -29,7 +29,7 @@ Finally, to connect and deploy the containers together, I will be using [Docker 
 
 To standardize the deployment, I will be using [Terraform](https://www.terraform.io/), a great tool to manage cloud resources. However, Terraform is [not open-source anymore](https://www.hashicorp.com/license-faq). Check out [OpenTofu](https://opentofu.org/) if you want an open-source fork!
 
-The cloud provider that I will be using will be AWS, as it is the one I know more about. Check out [my post]({{< relref "20240819094016-how_i_passed_the_aws_solutions_architect_professional_with_no_experience.md" >}})!
+The cloud provider that I will be using will be AWS, as it is the one I know more about. Check out [my post]({{< relref "20240819094016-how_i_passed_the_aws_solutions_architect_professional.md" >}})!
 
 Regarding the deployment of docker containers and automatic redeployment in case any errors occur, I will use an auto-scaling group. That is because I want to make sure it is always up and running from the latest backup.
 

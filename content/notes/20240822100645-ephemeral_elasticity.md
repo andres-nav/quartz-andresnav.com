@@ -6,7 +6,7 @@ tags = ["cloud"]
 draft = false
 +++
 
-It refers to a new type of computing [elasticity]({{< relref "20240821111823-elasticity.md" >}}) proposed in the [Boxer: FaaSt Ephemeral Elasticity for Off-the-Shelf Cloud Applications]({{< relref "20240815094638-boxer_faast_ephemeral_elasticity_for_off_the_shelf_cloud_applications.md" >}}) paper.
+It refers to a new type of computing [elasticity]({{< relref "20240821111823-elasticity.md" >}}) proposed in the [Boxer: FaaSt Ephemeral Elasticity for Off-the-Shelf Cloud Applications]({{< relref "boxer_faast_emphemeral_elasticity.md" >}}) paper.
 
 Ephemeral elasticity is running applications across both VM/containers as well as FaaS with the goal of having a single orchestrated application deployment that takes advantage of both types of infrastructure.
 
