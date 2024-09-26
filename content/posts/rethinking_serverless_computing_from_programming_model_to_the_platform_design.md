@@ -1,6 +1,7 @@
 +++
 title = "Rethinking Serverless Computing: from the Programming Model to the Platform Design"
 author = ["Andrés Navarro Pedregal"]
+date = 2024-09-16T00:00:00+02:00
 tags = ["literature", "cloud", "data-analytics", "serverless"]
 draft = false
 +++
