@@ -28,7 +28,7 @@ To learn more about me, visit my <a href="https://www.linkedin.com/in/andresnav"
 ## About This Site
 Here I write about my thoughts, projects, and things I'm working on.
 
-This site is an experiment of my digital garden, a place where I can share my ideas, thoughts, and projects. It's a work in progress, and I'm always looking for ways to improve it.
+This site is an experiment of my digital garden, a place where I can share my ideas, thoughts, and projects.
 - [Posts](/posts), where I write about my thoughts and experiences
 - [Notes](/notes), where I write about things I'm learning or researching
 
