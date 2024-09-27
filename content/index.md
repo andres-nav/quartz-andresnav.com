@@ -40,7 +40,6 @@ My current focus is on learning EVERYTHING with a strong focus on cloud computin
 - What are the key factors for a business to succeed?
 
 ## Contact
-Check out the links below:
 
 <a href="mailto:contact@andresnav.com" target="_blank">contact@andresnav.com</a><br>
 <a href="https://www.linkedin.com/in/andresnav" target="_blank">linkedin.com/in/andresnav</a><br>
