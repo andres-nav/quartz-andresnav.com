@@ -6,9 +6,7 @@ tags = ["amazon"]
 draft = false
 +++
 
-```text
-Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
-```
+> Leaders operate at all levels, stay connected to the details, audit frequently, and are skeptical when metrics and anecdote differ. No task is beneath them.
 
 Leaders must be able to think of the while still drill down on the details.
 

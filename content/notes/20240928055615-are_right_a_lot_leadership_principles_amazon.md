@@ -6,9 +6,7 @@ tags = ["amazon"]
 draft = false
 +++
 
-```text
-Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
-```
+> Leaders are right a lot. They have strong judgment and good instincts. They seek diverse perspectives and work to disconfirm their beliefs.
 
 Leaders usually navigate through ambiguity, and leaders must be able to sift through the noise, find the signal, and **what really matters for customers**.
 

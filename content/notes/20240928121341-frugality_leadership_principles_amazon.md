@@ -6,9 +6,7 @@ tags = ["amazon"]
 draft = false
 +++
 
-```text
-Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.
-```
+> Accomplish more with less. Constraints breed resourcefulness, self-sufficiency, and invention. There are no extra points for growing headcount, budget size, or fixed expense.
 
 Constraints breed resourcefulness, self-sufficiency, and invention.
 

@@ -6,9 +6,7 @@ tags = ["amazon"]
 draft = false
 +++
 
-```text
-Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
-```
+> Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly.
 
 Leaders are expected to speak up if something is done that is badly affecting customers and businesses, regardless of level.
 

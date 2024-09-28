@@ -6,9 +6,7 @@ tags = ["amazon"]
 draft = false
 +++
 
-```text
-Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
-```
+> Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
 
 Be hungry to find ways to learn. Leaders do not know anything and there is a lot of new things to learn.
 

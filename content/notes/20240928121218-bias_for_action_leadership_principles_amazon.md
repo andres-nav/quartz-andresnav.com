@@ -6,9 +6,7 @@ tags = ["amazon"]
 draft = false
 +++
 
-```text
-Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
-```
+> Speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk taking.
 
 Speed is a leadership and a cultural decision.
 

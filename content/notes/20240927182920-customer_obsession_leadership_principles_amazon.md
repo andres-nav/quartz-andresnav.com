@@ -6,9 +6,7 @@ tags = ["amazon"]
 draft = false
 +++
 
-```text
-Leaders start with the customer and work backwards. They work vigorously to earn and keep customers trust. Although leaders pay attention to competitors, they obsess over customers.
-```
+> Leaders start with the customer and work backwards. They work vigorously to earn and keep customers trust. Although leaders pay attention to competitors, they obsess over customers.
 
 -   Put the customer at the center of everything you do.
 -   Start with the customer and work backwards.

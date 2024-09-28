@@ -1,7 +1,7 @@
 +++
 title = "Leadership Principles @ Amazon"
 author = ["Andrés Navarro Pedregal"]
-date = 2024-09-16T00:00:00+02:00
+date = 2024-09-28T00:00:00+02:00
 tags = ["amazon"]
 draft = false
 +++
